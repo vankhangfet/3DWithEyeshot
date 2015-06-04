@@ -1,0 +1,13 @@
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\bin\Release\Porject3D.exe.config
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\bin\Release\Porject3D.exe
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\bin\Release\Porject3D.pdb
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.csprojResolveAssemblyReference.cache
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\MainWindow.baml
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\MainWindow.g.cs
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\App.g.cs
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D_MarkupCompile.cache
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.g.resources
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.Properties.Resources.resources
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.csproj.GenerateResource.Cache
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.exe
+D:\Temp\Project_Free\3DWithEyeshot\Porject3D\Porject3D\Porject3D\obj\Release\Porject3D.pdb

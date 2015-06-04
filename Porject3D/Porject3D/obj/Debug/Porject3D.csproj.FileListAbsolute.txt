@@ -1,0 +1,26 @@
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\bin\Debug\Porject3D.exe.config
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\bin\Debug\Porject3D.exe
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\bin\Debug\Porject3D.pdb
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\MainWindow.baml
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\MainWindow.g.cs
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\App.g.cs
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D_MarkupCompile.cache
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.g.resources
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.Properties.Resources.resources
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.csproj.GenerateResource.Cache
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.exe
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.pdb
+c:\users\prdcv-note031\documents\visual studio 2013\Projects\Porject3D\Porject3D\obj\Debug\Porject3D.csprojResolveAssemblyReference.cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Debug\Porject3D.exe.config
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.exe
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.pdb
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Debug\Porject3D.exe
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Debug\Porject3D.pdb
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.csprojResolveAssemblyReference.cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\MainWindow.baml
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\MainWindow.g.cs
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\App.g.cs
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D_MarkupCompile.cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.g.resources
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.Properties.Resources.resources
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Debug\Porject3D.csproj.GenerateResource.Cache

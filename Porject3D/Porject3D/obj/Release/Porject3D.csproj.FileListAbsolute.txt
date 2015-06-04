@@ -1,0 +1,13 @@
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Release\Porject3D.exe.config
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Release\Porject3D.exe
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\bin\Release\Porject3D.pdb
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.csprojResolveAssemblyReference.cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\MainWindow.baml
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\MainWindow.g.cs
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\App.g.cs
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D_MarkupCompile.cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.g.resources
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.Properties.Resources.resources
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.csproj.GenerateResource.Cache
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.exe
+D:\project\gvh006\_trunk\WPF\WPF005\Design\Porject3D\Porject3D\obj\Release\Porject3D.pdb
